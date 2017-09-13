@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "35b9c7a8-acc0-4862-9396-2439bcacb9d8",
+  "alias": "CustomCalendarWebPartWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "35b9c7a8-acc0-4862-9396-2439bcacb9d8",
+    "group": { "default": "Under Development" },
+    "title": { "default": "CustomCalendarWebPart" },
+    "description": { "default": "Custom Calendar Web Part" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "CustomCalendarWebPart"
+    }
+  }]
+}

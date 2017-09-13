@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "custom-calendar-web-part-client-side-solution",
+    "id": "2f8c9d90-2c13-47ff-ba00-947f472aee2b",
+    "version": "1.0.0.1"
+  },
+  "paths": {
+    "zippedPackage": "solution/custom-calendar-web-part.sppkg"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.0",
+    "libraryName": "custom-calendar-web-part",
+    "libraryId": "2f8c9d90-2c13-47ff-ba00-947f472aee2b",
+    "environment": "spo"
+  }
+}

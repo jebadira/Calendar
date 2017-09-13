@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/customCalendarWebPart/CustomCalendarWebPartWebPart.js",
+      "manifest": "./src/webparts/customCalendarWebPart/CustomCalendarWebPartWebPart.manifest.json",
+      "outputPath": "./dist/custom-calendar-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "customCalendarWebPartStrings": "webparts/customCalendarWebPart/loc/{locale}.js"
+  }
+}
