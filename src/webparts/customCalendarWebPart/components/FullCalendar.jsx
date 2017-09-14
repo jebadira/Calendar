@@ -73,6 +73,7 @@ export default class FullCalendar extends React.Component{
 				month : {buttonText : "Month"},
 				agendaDay : {buttonText : "Day"}
             },
+			height: 560,
             defaultView : "agendaWeek",
             defaultDate : new Date(),
             navLinks : true,
